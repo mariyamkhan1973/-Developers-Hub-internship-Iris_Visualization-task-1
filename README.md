@@ -16,15 +16,6 @@ First, I loaded the dataset and checked its shape, columns, and first few rows t
 - The box plot indicates that Virginica generally has larger petal widths compared to Setosa and Versicolor.
 - The visualizations helped highlight the relationships between different flower characteristics.
 
-
-## Tools Used
-
-- Python
-- Google Colab
-- Pandas
-- Matplotlib
-- Seaborn
-
 ## Work Done
 
 - Loaded the dataset
