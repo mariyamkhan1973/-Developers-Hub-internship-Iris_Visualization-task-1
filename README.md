@@ -1,15 +1,44 @@
 
 DevelopersHub-Internship-Tasks Data Science & Analytics internship tasks completed for the DevelopersHub Corporation internship program . DevelopersHub Corporation - Data Science Internship This repository contains the tasks completed during my Data Science and Analytics internship at DevelopersHub Corporation..
 
-Task 1: Exploring and Visualizing the Iris Dataset
+# Task 1 - Iris Dataset Visualization
 
-What I Did In this task, I worked with the Iris dataset and performed basic data exploration and visualization using Python. I loaded the dataset, checked its structure, viewed sample records, and analyzed the data through different visualizations including scatter plots, histograms, and box plots.
+## What I did
 
-My Observations
+In this task, I worked with the Iris dataset and learned how to explore and visualize data using Python.
 
-The dataset contains 150 flower samples belonging to three different species: Setosa, Versicolor, and Virginica.
-The scatter plot shows that Setosa is clearly separated from the other two species based on petal measurements.
-The histogram helped me understand the distribution of sepal length values in the dataset.
-The box plot showed the spread of the data and highlighted a few possible outliers.
-Petal measurements appear to be more useful than sepal measurements for distinguishing between flower species.
-Conclusion This task helped me learn how to explore a dataset and create visualizations to better understand the data. Using graphs made it easier to identify patterns, distributions, and differences between the flower species in the Iris dataset.
+First, I loaded the dataset and checked its shape, columns, and first few rows to understand the data. After that, I created different graphs to see patterns and relationships between the features.
+
+### My Observations
+
+- In the scatter plot, the Setosa species forms a completely separate cluster, making it easy to distinguish from the other species.
+- The histogram of petal length shows noticeable differences in the distribution of flower measurements across species.
+- The box plot indicates that Virginica generally has larger petal widths compared to Setosa and Versicolor.
+- The visualizations helped highlight the relationships between different flower characteristics.
+
+
+## Tools Used
+
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Work Done
+
+- Loaded the dataset
+- Explored the dataset structure
+- Checked the first few records
+- Generated summary statistics
+- Created a scatter plot
+- Created a histogram
+- Created a box plot
+
+## What I Learned
+
+This task helped me understand how to inspect a dataset before analysis and how visualizations can make data easier to understand. I also learned how to use Pandas, Matplotlib, and Seaborn in Google Colab.
+
+## Conclusion
+
+The Iris dataset is easy to understand and useful for learning data analysis. The visualizations showed clear differences between flower species and helped me better understand the distribution of the data.
